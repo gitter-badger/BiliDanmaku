@@ -1,4 +1,6 @@
 # BiliDanmaku[WIP]
+
+[![Join the chat at https://gitter.im/kaaass/BiliDanmaku](https://badges.gitter.im/kaaass/BiliDanmaku.svg)](https://gitter.im/kaaass/BiliDanmaku?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Add user's name of each comment in bilibili.
 ![Demo version](demo.png)
 
